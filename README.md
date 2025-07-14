@@ -1,4 +1,4 @@
-# Top Courses React Application
+# 🚀📚 Top Courses React Application
 
 **Top Courses** is a React app that displays a curated list of online courses. Users can filter by category (All, Development, Business, Design, Lifestyle), mark favorites, and receive toast notifications. Built with Create React App, Tailwind CSS, React Toastify, and deployed on Netlify.
 
